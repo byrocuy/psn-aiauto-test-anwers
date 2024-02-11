@@ -37,6 +37,7 @@ which means this is a historical data from some device network. Value = 1 that m
 
 Note :
 - If you find Null or "" value in some row, convert that value to the last non-null value before it self.  
+- for calculation, please use `device_network_data.csv` in this repository.
 
 Example :
 - example 1 
