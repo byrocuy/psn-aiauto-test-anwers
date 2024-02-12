@@ -6,7 +6,7 @@ By : PSN team
 - Programming language: python / golang / php (choose one)
 - 24 Hours, (counted from the question is sent).
 - create new repo in your github account which name (psn-aiauto-test-anwers)
-- add github account [@tripang1702] to your repository answer.
+- add github account [@tripang1702, @yohansetya, @abedkristanto] to your repository answer.
 - add readme.md for detail answer is a plus.
 
 ## Question
